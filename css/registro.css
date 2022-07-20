@@ -35,8 +35,8 @@ body {
 .icon {
     position: absolute;
     height: 3%;
-    top: 73%;
-    right: 250px;
+    top: 71%;
+    right: 630px;
     transform: translate(-50%);
     opacity: 0.3;
     cursor: pointer;
